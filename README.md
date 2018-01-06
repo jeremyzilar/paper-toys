@@ -1,6 +1,8 @@
 # Paper Toys
 
-Simple paper based toys, tools, and engaging projects.
+Simple paper based toys, tools, and engaging projects for people of all ages.
+
+Say hello — [@jeremyzilar](https://twitter.com/jeremyzilar)
 
 ---
 
